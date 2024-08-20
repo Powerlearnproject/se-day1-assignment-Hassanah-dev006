@@ -268,11 +268,11 @@ When working within specialized domains, such as medicine, law, or engineering, 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 
-# Example of a Vague Prompt
+* Example of a Vague Prompt
 Vague Prompt:
 "Tell me about technology."
 
-# Improved Prompt
+* Improved Prompt
 Clear, Specific, and Concise Prompt:
 "Explain the key differences between artificial intelligence and machine learning, including examples of how each is used in everyday applications."
 
